@@ -1,0 +1,16 @@
+SQLAlchemy~=1.4.43
+marshmallow~=3.18.0
+Flask~=2.2.2
+PyJWT~=2.5.0
+Werkzeug~=2.2.2
+Safe~=0.4
+SQLAlchemy~=1.4.41
+flasgger~=0.9.5
+Flask-JWT-Extended==4.3.1
+psycopg2-binary==2.9.3
+Flask-Filter==0.1.0.dev5
+flask-marshmallow==0.14.0
+Flask-Cors==3.0.10
+marshmallow-sqlalchemy==0.27.0
+Flask-SQLAlchemy==2.5.1
+Flask-Migrate==3.1.0
